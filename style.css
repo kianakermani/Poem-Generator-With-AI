@@ -21,10 +21,6 @@ h1 {
   color: #000000;
 }
 
-header {
-  margin-bottom: 30px;
-}
-
 .container {
   margin: 120px auto;
   max-width: 600px;
@@ -32,7 +28,6 @@ header {
 
 form {
   padding: 30px;
-  border-radius: 10px;
   display: flex;
   margin-bottom: 30px;
 }
@@ -77,4 +72,5 @@ footer {
   text-align: center;
   font-size: 15px;
   margin-top: 30px;
+  margin-bottom: 20px;
 }
